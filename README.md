@@ -6,6 +6,8 @@ IoT para coleta de dados e gerando relatórios detalhados sobre o consumo. O
 projeto visa otimizar o uso de energia, detectar desperdícios e fornecer
 relatórios que ajudem na tomada de decisões estratégicas.
 
+## Link Vídeo Demo
+https://youtu.be/rvxlUkH5bmE
 
 ## Integrantes
 
